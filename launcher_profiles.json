@@ -1,16 +1,28 @@
 {
   "profiles": {
-    "susuwatarin": {
-      "name": "susuwatarin",
-      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/susuwatarin"
-    },
     "umineko": {
       "name": "umineko",
-      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/umineko"
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/profile/umineko/umineko",
+      "lastVersionId": "1.9-forge1.9-12.16.1.1907"
     },
-    "susuwatarin_forge": {
-      "name": "susuwatarin_forge",
-      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/susuwatarin_forge"
+    "susuwatarin_forge1.8": {
+      "name": "susuwatarin_forge1.8",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/profile/susuwatarin/susuwatarin_forge1.8",
+      "lastVersionId": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9"
+    },
+    "susuwatarin": {
+      "name": "susuwatarin",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/profile/susuwatarin/susuwatarin"
+    },
+    "susuwatarin_forge1.9.4": {
+      "name": "susuwatarin_forge1.9.4",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/profile/susuwatarin/susuwatarin_forge1.9.4",
+      "lastVersionId": "1.9.4-forge1.9.4-12.17.0.1910-1.9.4"
+    },
+    "susuwatarin_forge1.9": {
+      "name": "susuwatarin_forge1.9",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/profile/susuwatarin/susuwatarin_forge1.9",
+      "lastVersionId": "1.9-forge1.9-12.16.1.1907"
     }
   },
   "selectedProfile": "umineko",
