@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "susuwatarin": {
+      "name": "susuwatarin",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/susuwatarin"
+    }
+  },
+  "selectedProfile": "susuwatarin",
+  "clientToken": "fe40c2fa-4221-4862-a224-f638b807d29d",
+  "authenticationDatabase": {
+    "ceaed05bafea45d295bb4a7e4e9d238c": {
+      "displayName": "susuwatarin",
+      "accessToken": "fd07136610ff46979020c2483400f046",
+      "userid": "8fca8819274ab2239cdb44da456943e5",
+      "uuid": "ceaed05b-afea-45d2-95bb-4a7e4e9d238c",
+      "username": "galileo_galilei_00@yahoo.co.jp"
+    }
+  },
+  "selectedUser": "ceaed05bafea45d295bb4a7e4e9d238c",
+  "launcherVersion": {
+    "name": "1.6.61",
+    "format": 18
+  }
+}
