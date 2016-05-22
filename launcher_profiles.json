@@ -3,9 +3,17 @@
     "susuwatarin": {
       "name": "susuwatarin",
       "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/susuwatarin"
+    },
+    "umineko": {
+      "name": "umineko",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/umineko"
+    },
+    "susuwatarin_forge": {
+      "name": "susuwatarin_forge",
+      "gameDir": "/Users/Kyohei/Library/Application Support/minecraft/susuwatarin_forge"
     }
   },
-  "selectedProfile": "susuwatarin",
+  "selectedProfile": "umineko",
   "clientToken": "fe40c2fa-4221-4862-a224-f638b807d29d",
   "authenticationDatabase": {
     "ceaed05bafea45d295bb4a7e4e9d238c": {
